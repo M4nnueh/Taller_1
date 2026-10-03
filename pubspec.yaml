@@ -1,5 +1,5 @@
-name: async_workshop_app
-description: "A new Flutter project."
+name: taller_segundo_plano_app
+description: "Aplicacion en Flutter para demostracion de Future, async/await, Timer e Isolates."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev

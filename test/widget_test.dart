@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:async_workshop_app/main.dart';
+import 'package:taller_segundo_plano_app/main.dart';
 
 void main() {
   testWidgets('Carga el menú principal correctamente', (WidgetTester tester) async {
