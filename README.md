@@ -80,24 +80,4 @@ flowchart TD
 
 ---
 
-## 📄 5. Guía para el PDF de Evidencias
 
-El documento PDF para la entrega en Moodle debe incluir:
-1. **Primera página:**
-   - Nombre: Manuel Alejandro Ramirez Bravo
-   - Correo: rmanuelalejandro616@gmail.com
-   - URL del Repositorio de GitHub / Git (con las ramas `dev`, `main` y `feature/taller_segundo_plano`).
-2. **Evidencias Módulo 1 (Future & async/await):**
-   - Captura del estado inicial.
-   - Captura del estado "Cargando..." con el indicador de progreso.
-   - Captura del estado "Éxito" con los datos consultados.
-   - Captura del estado "Error" simulado.
-   - Captura de la consola de depuración mostrando el orden de ejecución: `[ANTES]`, `[DURANTE]` y `[DESPUÉS]`.
-3. **Evidencias Módulo 2 (Timer / Cronómetro):**
-   - Captura del cronómetro en marcha mostrando el tiempo formateado.
-   - Captura del estado pausado y el registro de vueltas grabadas.
-   - Captura de reinicio y explicación de la liberación de recursos en `dispose()`.
-4. **Evidencias Módulo 3 (Isolate):**
-   - Captura del selector de carga (500K / 2M / 5M) y la animación giratoria fluida mientras calcula.
-   - Captura de los resultados (tiempo en milisegundos, primos calculados, suma).
-   - Captura de los mensajes en consola intercambiados mediante `SendPort` y `ReceivePort`.
